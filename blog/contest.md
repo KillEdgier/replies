@@ -1,9 +1,9 @@
 ---
-title: horse
-date: 2024-08-24
+title: contest
+date: 2024-12-16
 ---
 
-![Goof](/img/horse.jpg)
+![Goof](/img/contest.jpg)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
