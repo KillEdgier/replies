@@ -16,6 +16,7 @@ const config = {
   deploymentBranch: 'main',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  docs: false, // Optional: disable the docs plugin
 
 
   i18n: {
