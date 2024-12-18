@@ -10,10 +10,8 @@ const config = {
   url: 'https://killedgier.github.io', // Set the production url of your site here
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/replies/',
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'KillEdgier', // Usually your GitHub org/user name.
+  baseUrl: '/', 
+  organizationName: 'KillEdgier', // Usually your GitHub org/user name. //
   projectName: 'replies', // Usually your repo name.
   deploymentBranch: 'main',
   onBrokenLinks: 'throw',
