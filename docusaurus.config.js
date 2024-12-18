@@ -16,7 +16,7 @@ const config = {
   deploymentBranch: 'main',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  docs: false, // Optional: disable the docs plugin
+  
 
 
   i18n: {
@@ -29,6 +29,7 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        docs: false, // Optional: disable the docs plugin
         blog: {
           routeBasePath: '/',
           blogSidebarCount: 0,
