@@ -13,12 +13,10 @@ const config = {
   baseUrl: '/', 
   organizationName: 'KillEdgier', // Usually your GitHub org/user name. //
   projectName: 'replies', // Usually your repo name.
-  deploymentBranch: 'main',
+  deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   
-
-
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -38,8 +36,6 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'ignore',
